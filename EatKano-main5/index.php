@@ -3,7 +3,7 @@
 
 <head>
     <title>kiss明日香</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
+    <meta itemprop="name" content="kiss明日香" />
     <meta itemprop="description" content="新概念音游" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
     <meta charset="utf-8" />
